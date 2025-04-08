@@ -29,8 +29,8 @@ MediTrust is a secure blockchain-based application for managing medical records.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/meditrust.git
-cd meditrust
+git clone https://github.com/Agnik2023/meditrust.git
+cd meditrust-lite
 ```
 
 2. Install dependencies
